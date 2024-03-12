@@ -1,0 +1,51 @@
+.resultado_alunos{
+
+    display: inline-flex;
+    height: 500px;
+    width: 75%;
+    border-width: 15cm;
+    background-color: rgb(118, 166, 238);
+    padding: 8px;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}
+
+#teste{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    padding: 25px;
+}
+.aluno1{
+    
+    height: 135px;
+    width: 110px;
+    background-color: aliceblue;
+    border-radius: 5px;
+     
+    
+    box-shadow: 3px 3px 3px rgb(3, 0, 5);
+    margin-left: 10px;
+
+    
+   
+}
+img{
+    padding: 10px;
+    height: 100px;
+    width: 100%;
+
+}
+
+.nome_aluno{
+   text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+
+}
+
+.div:not(:target){
+    display: none;
+}
